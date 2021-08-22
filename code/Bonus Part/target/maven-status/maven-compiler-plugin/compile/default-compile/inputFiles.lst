@@ -1,0 +1,11 @@
+/root/Bonus/src/main/java/com/zetcode/bean/User.java
+/root/Bonus/src/main/java/com/zetcode/controller/JwtAuthenticationController.java
+/root/Bonus/src/main/java/com/zetcode/bean/JwtUserDetailsService.java
+/root/Bonus/src/main/java/com/zetcode/bean/JwtRequestFilter.java
+/root/Bonus/src/main/java/com/zetcode/bean/JwtAuthenticationEntryPoint.java
+/root/Bonus/src/main/java/com/zetcode/controller/MyController.java
+/root/Bonus/src/main/java/com/zetcode/bean/JwtResponse.java
+/root/Bonus/src/main/java/com/zetcode/bean/JwtRequest.java
+/root/Bonus/src/main/java/com/zetcode/bean/WebSecurityConfig.java
+/root/Bonus/src/main/java/com/zetcode/Application.java
+/root/Bonus/src/main/java/com/zetcode/bean/JwtTokenUtil.java

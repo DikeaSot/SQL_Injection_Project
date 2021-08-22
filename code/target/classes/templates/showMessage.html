@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Show message</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+<h1>Congratulations!</h1>
+
+<!--<p th:text="'User: ' + ${user.name} + ' you are verified!'"></p>
+<a href="/addUser">Submit another message</a> -->
+<table>
+<tr>
+<td><h4>User : </h4></td>
+<td><h4 th:text = "${user.name}"></h4></td>
+<td><h4> you are verified! </h4></td>
+</tr>
+</table>
+<br>
+<form action="showMessage" method="post">
+        <p>
+        <input type="submit" class="Change Password" value="Change Password"/> 
+        </p>
+</form>
+<br>
+<form>
+ <input type="button" value="Go back!" onclick="history.back()">
+</form>
+
+
+</body>
+</html>
