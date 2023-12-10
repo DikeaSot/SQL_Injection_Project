@@ -1,6 +1,6 @@
-package com.zetcode.controller;
+package com.networksecurity.controller;
 
-import com.zetcode.bean.User;
+import com.networksecurity.bean.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.ui.Model;
