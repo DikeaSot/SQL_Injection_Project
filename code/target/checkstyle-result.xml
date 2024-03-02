@@ -3,7 +3,6 @@
 <file name="D:\Dikea\Documents\GitHub\SQL_Injection_Project\code\src\main\java\com\networksecurity\Application.java">
 </file>
 <file name="D:\Dikea\Documents\GitHub\SQL_Injection_Project\code\src\main\java\com\networksecurity\bean\JwtAuthenticationEntryPoint.java">
-<error line="8" column="1" severity="error" message="Extra separation in import group before &apos;org.springframework.security.core.AuthenticationException&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
 </file>
 <file name="D:\Dikea\Documents\GitHub\SQL_Injection_Project\code\src\main\java\com\networksecurity\bean\JwtRequest.java">
 </file>
